@@ -1,0 +1,18 @@
+/* styles.css */
+
+/* Styles for desktop */
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+/* Styles for mobile */
+@media (max-width: 768px) {
+  .container {
+    width: 100%;
+    padding: 10px;
+  }
+}
+
+/* Additional styles for mobile */
+/* Adjust the styles of elements as per your design */
